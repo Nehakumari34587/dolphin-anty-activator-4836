@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <rect width="256" height="256" fill="#0E1A24"/>
+  <!-- Three offset browser windows -->
+  <polygon points="48,156 148,156 148,208 48,208" fill="#E6F1F5" opacity="0.18"/>
+  <polygon points="64,140 164,140 164,192 64,192" fill="#E6F1F5" opacity="0.30"/>
+  <polygon points="80,124 180,124 180,176 80,176" fill="#E6F1F5" opacity="0.45"/>
+  <!-- Window top bars -->
+  <rect x="80" y="124" width="100" height="10" fill="#2FB6C9" opacity="0.8"/>
+  <circle cx="88" cy="129" r="2.5" fill="#0E1A24"/>
+  <circle cx="96" cy="129" r="2.5" fill="#0E1A24"/>
+  <circle cx="104" cy="129" r="2.5" fill="#0E1A24"/>
+  <!-- Content lines in top window -->
+  <rect x="88" y="142" width="60" height="4" rx="2" fill="#2FB6C9" opacity="0.5"/>
+  <rect x="88" y="152" width="44" height="4" rx="2" fill="#2FB6C9" opacity="0.35"/>
+  <rect x="88" y="162" width="52" height="4" rx="2" fill="#2FB6C9" opacity="0.25"/>
+  <!-- Dorsal fin slicing through windows -->
+  <path d="M128 40 C140 60 150 85 148 110 C146 122 138 130 130 134 C132 120 130 105 126 92 C122 76 118 58 128 40 Z" fill="#2FB6C9"/>
+  <path d="M128 40 C134 58 140 78 140 98 C140 112 136 124 130 134 C134 118 134 100 130 82 C127 68 124 52 128 40 Z" fill="#E6F1F5" opacity="0.4"/>
+  <!-- Fin tip accent -->
+  <path d="M128 40 C132 50 136 62 138 72 L134 70 C131 60 129 48 128 40 Z" fill="#F2A63B"/>
+  <!-- Water slice line -->
+  <path d="M100 134 Q120 128 140 134 Q160 140 180 134" stroke="#F2A63B" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- Small geometric accents -->
+  <circle cx="148" cy="60" r="3" fill="#F2A63B"/>
+  <circle cx="158" cy="72" r="2" fill="#E6F1F5" opacity="0.6"/>
+  <circle cx="140" cy="52" r="2" fill="#2FB6C9" opacity="0.7"/>
+  <!-- Off-center emblem base accent -->
+  <polygon points="196,196 210,196 203,208" fill="#F2A63B" opacity="0.8"/>
+  <polygon points="52,60 60,60 56,68" fill="#2FB6C9" opacity="0.6"/>
+</svg>
